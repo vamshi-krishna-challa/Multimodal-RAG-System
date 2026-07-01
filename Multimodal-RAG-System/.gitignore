@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+multirag_db/
+chroma_db/
+uploads/
+*.wav
+*.mp3
+*.ogg
+.DS_Store
+.vscode/
+.idea/
